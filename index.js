@@ -7,7 +7,7 @@ export const data = {
     "extend": {
       "colors": {
         "content-primary": "#272e35",
-        "content-secondary": "#555f6d",
+        "content-secondary": "#FF0000",
         "content-tertiary": "#7e8c9a",
         "content-disabled": "#9ea8b3",
         "content-primary-inverse": "#ffffff",
