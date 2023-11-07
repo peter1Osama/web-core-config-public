@@ -945,7 +945,7 @@ export const themeData ={
     "font-size-1050": "84px",
     "font-size-1150": "92px"
   },
-  "fontWeights": {
+  "fontWeight": {
     "font-weight-300": 300,
     "font-weight-400": 400,
     "font-weight-500": 500,
