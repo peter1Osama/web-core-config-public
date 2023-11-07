@@ -924,7 +924,7 @@ export const themeData ={
     "font-family-serif": "Noto Serif",
     "font-family-mono": "Noto Sans Mono"
   },
-  "fontSizes": {
+  "fontSize": {
     "font-size-100": "8px",
     "font-size-125": "10px",
     "font-size-150": "12px",
